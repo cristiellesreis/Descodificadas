@@ -1,3 +1,3 @@
-# Programa de formação Descodificadas
+# Trilha 1 - Descodificadas
 
-Na trilha 1, foram desenvolvidas atividades introdutórias de front-end, utilizando HTML, CSS e JavaScript. O projeto final de curso, foi desenvolver um site utilizando essas tecnologias.
+Foram desenvolvidas atividades introdutórias de front-end, utilizando HTML, CSS e JavaScript. Meu projeto final de curso, foi desenvolver um site utilizando essas três tecnologias.
